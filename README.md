@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 ### Activity 🚀
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceo-mani&show_icons=true&theme=radical)
 ### Language 👨‍💻
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceo-mani)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceo-mani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
