@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **ceo-mani/ceo-mani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Self-belief and faith
 - 😄 Pronouns: CEO
 - ⚡ Fun fact: Discord fun post
--->
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
