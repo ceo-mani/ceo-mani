@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Language 👨‍💻
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceo-mani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### Project Code
-https://img.shields.io/badge/Lua-Eternity-yellowgreen
+-https://img.shields.io/badge/Lua-Eternity-red
 
 
 
