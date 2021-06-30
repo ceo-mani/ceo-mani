@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceo-mani&show_icons=true&theme=radical)
 ### Language 👨‍💻
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceo-mani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Project Language
+### Social
+![Discord](https://img.shields.io/discord/798885418850058250?color=red&label=Discord&logo=Discord&style=for-the-badge)
 
 
 
